@@ -1,0 +1,22 @@
+body {
+    background-color: burlywood
+}
+
+h1 {
+    color: brown;
+    background-color: aqua;
+}
+
+p {
+    color: black;
+}
+
+ul>li>a {
+    color: black;
+    background-color: aqua;
+}
+
+.para {
+    color: brown;
+    background-color: aqua;
+}
